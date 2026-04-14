@@ -1,14 +1,16 @@
-# Test Websites for Same-Origin Policy and Agentic Browser Security Experiments
+# Agentic Browsers and the Same-Origin Policy
 
 This repository contains test websites used in 
 the experiments described in the following paper:
 
+```
 @inproceedings{roesner_kohlbrenner_2026_agentic_sop,
   title={Agentic Browsers and the Same-Origin Policy},
   author={Roesner, Franziska and Kohlbrenner, David},
   booktitle={Agents in the Wild Workshop @ ICLR},
   year={2026}
 }
+```
 
 More information at: https://agent-security.cs.washington.edu. 
 
